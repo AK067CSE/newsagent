@@ -1,0 +1,33 @@
+# News Aggregation System Requirements
+
+# Core Google ADK
+google-adk>=0.1.0
+
+# Web Scraping and Search
+duckduckgo-search>=8.1.1
+crawl4ai>=0.3.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# HTML Parsing
+lxml>=5.0.0
+
+# Async Support
+nest-asyncio>=1.5.8
+
+# Data Processing
+pydantic>=2.5.0
+python-dateutil>=2.8.2
+
+# Optional: For database storage
+
+# Optional: For Excel export
+openpyxl>=3.1.0
+pandas>=2.1.0
+
+# Optional: For UI
+streamlit>=1.28.0
+
+# Development and Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
