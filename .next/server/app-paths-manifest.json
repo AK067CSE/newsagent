@@ -1,0 +1,8 @@
+{
+  "/ai-summarizer/page": "app/ai-summarizer/page.js",
+  "/content-classifier/page": "app/content-classifier/page.js",
+  "/data-exporter/page": "app/data-exporter/page.js",
+  "/news-discoverer/page": "app/news-discoverer/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/web-scraper/page": "app/web-scraper/page.js"
+}
